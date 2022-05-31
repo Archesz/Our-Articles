@@ -1,0 +1,7 @@
+{
+    "Refs": [
+        {"Author": "Gabriel Talasso", "Title": "PyTorch, SHAP: Explainable Convolutional Neural Networks", "Tag": "Neural Network", "Link": "https://towardsdatascience.com/pytorch-shap-explainable-convolutional-neural-networks-ece5f04c374f"},
+        {"Author": "Gabriel Talasso", "Title": "Two minutes NLP — Explain predictions with SHAP values", "Tag": "NLP", "Link": "https://medium.com/nlplanet/two-minutes-nlp-explain-predictions-with-shap-values-2a0e34219177"},
+        {"Author": "Gabriel Talasso", "Title": "Understand your Algorithm with Grad-CAM", "Tag": "Neural Network", "Link": "https://towardsdatascience.com/understand-your-algorithm-with-grad-cam-d3b62fce353"}
+    ]
+}
